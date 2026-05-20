@@ -1,0 +1,10 @@
+/home/sjzhao/spack/opt/spack/linux-cascadelake/cp2k-2026.1-ldkgppgxffmfljh6amioudbsetbzep4p/bin/cp2k.psmp
+/project/chem26800/sjzhao
+Au4_charge1_E.out
+Au4_IE.inp
+Au4.xyz
+Err_AU4_IE0.err
+Err_AU4_IE.err
+Out_Au4_IE0.out
+Out_Au4_IE.out
+sub_cp2k.sh
